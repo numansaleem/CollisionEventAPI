@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollisionEventsAPI", "CollisionEventsAPI\CollisionEventsAPI.csproj", "{BAF24F4B-EB7B-4515-B5F3-093CD2863181}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestCollisionEvents", "UnitTestCollisionEvents\UnitTestCollisionEvents.csproj", "{2961E1C2-B37F-480B-B235-5009967D987C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF24F4B-EB7B-4515-B5F3-093CD2863181}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF24F4B-EB7B-4515-B5F3-093CD2863181}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF24F4B-EB7B-4515-B5F3-093CD2863181}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF24F4B-EB7B-4515-B5F3-093CD2863181}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2961E1C2-B37F-480B-B235-5009967D987C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2961E1C2-B37F-480B-B235-5009967D987C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2961E1C2-B37F-480B-B235-5009967D987C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2961E1C2-B37F-480B-B235-5009967D987C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BD378B7-4C2D-4A3A-8A03-9291A08A258E}
+	EndGlobalSection
+EndGlobal
